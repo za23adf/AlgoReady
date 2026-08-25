@@ -63,7 +63,9 @@ Language: JavaScript
 ## How to Run
 
 
+For Instant Use/Access - Use this Link : https://snack.expo.dev/@aar2004/algoready
 
+To download and use it from its source code:
 
 
 Open the project in Expo Snack (or clone the repo and run locally with Expo CLI) or download the zip file in Releases and extract it and open it in Expo Snack website.
@@ -71,6 +73,8 @@ Open the project in Expo Snack (or clone the repo and run locally with Expo CLI)
 
 
 Scan the QR code with the Expo Go app on your phone, or run in the web/simulator preview.
+
+
 
 ## Screenshots
 
