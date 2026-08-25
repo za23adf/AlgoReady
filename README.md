@@ -1,11 +1,77 @@
-# Sample Snack app
+# AlgoReady
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+A React Native mobile app for tracking and organizing coding interview / algorithm practice, built with Expo Snack.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+## Overview
+
+
+
+AlgoReady helps users prepare for coding interviews by giving them a way to log solved problems, search and filter by topic or difficulty, track progress over time, and bookmark problems to revisit later - all in one mobile app.
+
+
+
+## Features
+
+
+
+
+
+
+
+Log solved problems - record problems as you work through them
+
+
+
+Search & filter - find problems by topic (e.g. arrays, graphs, DP) or difficulty level
+
+
+
+Progress stats dashboard - view streaks, solve counts, and overall progress at a glance
+
+
+
+Bookmarks - save problems to revisit later
+
+
+
+Local persistence - all data saved on-device using AsyncStorage, so progress isn't lost between sessions
+
+
+
+## Tech Stack
+
+
+
+
+
+Framework: React Native (via Expo Snack)
+
+
+
+Storage: AsyncStorage (local on-device persistence)
+
+
+
+Language: JavaScript
+
+
+
+## How to Run
+
+
+
+
+
+Open the project in Expo Snack (or clone the repo and run locally with Expo CLI).
+
+
+
+Scan the QR code with the Expo Go app on your phone, or run in the web/simulator preview.
+
+
+
+No backend setup required - all data is stored locally on-device via AsyncStorage.
