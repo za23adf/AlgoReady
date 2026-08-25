@@ -72,6 +72,31 @@ Open the project in Expo Snack (or clone the repo and run locally with Expo CLI)
 
 Scan the QR code with the Expo Go app on your phone, or run in the web/simulator preview.
 
+## Screenshots
+
+<img width="175" height="399" alt="image" src="https://github.com/user-attachments/assets/fb616a63-de69-468a-9c9e-175c8a5e4ff2" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="182" height="395" alt="image" src="https://github.com/user-attachments/assets/4895c153-b73e-41ec-9e9b-51e122b6a984" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="177" height="395" alt="image" src="https://github.com/user-attachments/assets/0d88d88d-2f04-4057-aae5-1e3e8d052deb" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="182" height="396" alt="image" src="https://github.com/user-attachments/assets/47e4c378-7e65-417a-af9d-b51ccddf53d2" />
+
+## Notes
+
+Why this exists: Platforms like LeetCode provide the problems, but lack a dedicated way to organize interview prep - filtering by company, tracking difficulty and progress, and revisiting problems quickly before an interview. AlgoReady fills that gap: a lightweight companion app to log, filter, and track problems by company association and difficulty rating, with a stats dashboard and quick-revision bookmarking, so prep stays organized instead of scattered across tabs and spreadsheets.
+
+
+
+
+
+
 
 
 No backend setup required - all data is stored locally on-device via AsyncStorage.
